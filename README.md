@@ -1,2 +1,2 @@
 # Papers
-Resurcher papers
+Research papers
